@@ -10,4 +10,4 @@ Files that has been added:
 - MyAdapter (under "java -> com-example.myapplication")
 - MyViewHolder (under "java -> com-example.myapplication")
 
-<img src="/test.jpg" width="75%">
+<img src="/test.jpg" width="77%">
