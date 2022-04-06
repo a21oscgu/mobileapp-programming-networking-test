@@ -2,10 +2,12 @@
 Project started as "Empty Activity".
 
 Files that has been changed:
-- MainActivity (under "java -> com-example.myapplication")
 - activity_main.xml (under "res -> layout")
+- MainActivity (under "java -> com-example.myapplication")
 
 Files that has been added:
+- item_mountain.xml (under "res -> layout")
 - MyAdapter (under "java -> com-example.myapplication")
 - MyViewHolder (under "java -> com-example.myapplication")
-- item_mountain.xml (under "res -> layout")
+
+<img src="/test.jpg" width="40%">
