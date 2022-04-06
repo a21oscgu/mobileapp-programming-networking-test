@@ -1,4 +1,4 @@
-#RecyclerView Test
+# RecyclerView Test
 Project started as "Empty Activity".
 
 Files that has been added:
